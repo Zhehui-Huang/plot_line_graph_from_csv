@@ -1,0 +1,22 @@
+Framework,Total num envs,"fps, frameskip=4"
+sample-factory,20,14548
+sample-factory,40,22480
+sample-factory,80,30164
+sample-factory,160,41092
+sample-factory,320,51264
+sample-factory,640,56716
+rlpyt,20,16268
+rlpyt,40,23688
+rlpyt,80,26448
+rlpyt,160,31660
+rlpyt,320,38908
+rlpyt,640,41940
+rllib,20,8568
+rllib,40,8948
+rllib,80,10388
+rllib,160,10404
+rllib,320,10500
+rllib,640,10808
+scalable_agent,20,7780
+scalable_agent,40,7923
+scalable_agent,80,8192
